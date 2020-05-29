@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores test","This test will delete the store using storeId","SUCCESS","2020-05-29T15:20:02.628+01:00[Europe/London]","0.0","0.72"
+"Stores test","This test will get all stores","SUCCESS","2020-05-29T15:20:03.346+01:00[Europe/London]","0.0","0.1"
+"Stores test","This test will update a name of an existing store","SUCCESS","2020-05-29T15:20:03.446+01:00[Europe/London]","0.0","0.4"
+"Stores test","This test will create a new product","SUCCESS","2020-05-29T15:20:03.847+01:00[Europe/London]","0.0","0.27"
+"Stores test","This test will get a specific product by Id","SUCCESS","2020-05-29T15:20:04.124+01:00[Europe/London]","0.0","0.14"

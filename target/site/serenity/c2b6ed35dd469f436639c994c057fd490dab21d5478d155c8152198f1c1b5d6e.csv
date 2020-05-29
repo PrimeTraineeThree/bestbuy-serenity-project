@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test","This test will get all products information","SUCCESS","2020-05-29T15:19:59.900+01:00[Europe/London]","0.0","0.32"
+"Stores test","This test will get all stores","SUCCESS","2020-05-29T15:20:03.346+01:00[Europe/London]","0.0","0.1"

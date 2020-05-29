@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test","Verify 'Not found' error message with invalid endpoint","SUCCESS","2020-05-29T15:19:59.222+01:00[Europe/London]","0.0","0.23"
+"Product test","This test will get a specific product by Id","SUCCESS","2020-05-29T15:19:59.455+01:00[Europe/London]","0.0","0.44"
+"Product test","This test will get all products information","SUCCESS","2020-05-29T15:19:59.900+01:00[Europe/London]","0.0","0.32"
+"Product test","This test will delete the product by id","SUCCESS","2020-05-29T15:20:00.217+01:00[Europe/London]","0.0","0.94"
+"Product test","This test will create a new product","SUCCESS","2020-05-29T15:20:01.162+01:00[Europe/London]","0.0","0.53"
+"Product test","This test will update a name of an existing product","SUCCESS","2020-05-29T15:20:01.694+01:00[Europe/London]","0.0","0.56"

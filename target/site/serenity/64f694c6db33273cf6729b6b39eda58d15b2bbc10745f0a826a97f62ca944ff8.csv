@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test","Verify 'Not found' error message with invalid endpoint","SUCCESS","2020-05-29T15:19:59.222+01:00[Europe/London]","0.0","0.23"
+"Product test","This test will delete the product by id","SUCCESS","2020-05-29T15:20:00.217+01:00[Europe/London]","0.0","0.94"
+"Stores test","Verify 'Not found' error message with invalid endpoint","SUCCESS","2020-05-29T15:20:02.520+01:00[Europe/London]","0.0","0.11"

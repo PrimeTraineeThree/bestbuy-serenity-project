@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores test","Verify 'Not found' error message with invalid endpoint","SUCCESS","2020-05-29T15:20:02.520+01:00[Europe/London]","0.0","0.11"
